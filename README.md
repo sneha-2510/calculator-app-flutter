@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+This Repo holds the source code for a simple calculator_app using flutter.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Calculator_app_ss](https://github.com/sneha-2510/calculator-app-flutter/blob/master/Screenshot_1648566663.png)
